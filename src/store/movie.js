@@ -98,8 +98,9 @@ export default {
         commit('updateState', {
             loading: false
         })
-    }
-} 
+         }
+    } 
+}
 }
 }
 
